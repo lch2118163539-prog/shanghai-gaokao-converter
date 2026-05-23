@@ -42,16 +42,19 @@ $$ \text{换算后总分}(750) = \text{语数外三门总分}(450) + \sum_{i=1}^
 ```bash
 git clone [https://github.com/lch2118163539-prog/shanghai-gaokao-converter.git](https://github.com/lch2118163539-prog/shanghai-gaokao-converter.git)
 cd shanghai-gaokao-converter
-
+```
 ### 2. 运行脚本
 本项目基于原生 Python 开发，无需安装任何第三方依赖。
+请在终端（Terminal）中运行以下命令启动换算器：
 
 ```bash
 python main.py
+```
 
 ### 3. 使用示例
 运行后，终端将进行如下交互：
 
+```text
 === 上海高考分数换算器 V1.0 ===
 
 [第一步] 请输入主三门分数（单科满分 150 分）：
@@ -71,3 +74,4 @@ python main.py
 ======================================
 原本总分（满分660）：565.0 分
 换算后总分（满分750）：617.5 分
+```
