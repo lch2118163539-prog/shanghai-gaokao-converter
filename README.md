@@ -38,6 +38,7 @@ $$ \text{换算后总分}(750) = \text{语数外三门总分}(450) + \sum_{i=1}^
 ## 🚀 快速开始
 
 ### 1. 克隆仓库
+
 ```bash
-git clone [https://github.com/你的用户名/shanghai-gaokao-converter.git](https://github.com/你的用户名/shanghai-gaokao-converter.git)
+git clone [https://github.com/lch2118163539-prog/shanghai-gaokao-converter.git](https://github.com/lch2118163539-prog/shanghai-gaokao-converter.git)
 cd shanghai-gaokao-converter
