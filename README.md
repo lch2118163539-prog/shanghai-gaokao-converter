@@ -45,7 +45,6 @@ cd shanghai-gaokao-converter
 
 ### 2. 运行脚本
 本项目基于原生 Python 开发，无需安装任何第三方依赖。
-请在终端（Terminal）中运行以下命令启动换算器：
 
 ```bash
 python main.py
